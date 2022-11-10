@@ -2,6 +2,7 @@
 title: "rust web"
 date: 2022-11-10T15:55:54+08:00
 draft: true
+categories: ["rust"]
 ---
 
 

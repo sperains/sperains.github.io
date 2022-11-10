@@ -79,9 +79,9 @@ fingerprint = ""
 #  日期格式
 dateFormat = "2006-01-02"
 # 网站标题, 用于 Open Graph 和 Twitter Cards
-title = "我的网站"
+title = "sperains' blog"
 # 网站描述, 用于 RSS, SEO, Open Graph 和 Twitter Cards
-description = "这是我的全新 Hugo 网站"
+description = "任OvO的博客 sperains' blog"
 # 网站图片, 用于 Open Graph 和 Twitter Cards
 images = ["/logo.png"]
 

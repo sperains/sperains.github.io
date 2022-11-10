@@ -478,7 +478,7 @@ darkTheme = "dark"
 images = []
 # 出版者信息
 [params.page.seo.publisher]
-name = ""
+name = "sperains"
 logoUrl = "/avatar.jpeg"
 
 #  TypeIt 配置

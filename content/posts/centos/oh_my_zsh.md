@@ -5,6 +5,9 @@ tags: ["zsh"]
 categories: ["centos"]
 ---
 
+在centos中安装oh_my_zsh
+<!--more-->
+
 ## 安装zsh
 ```
 dnf install zsh

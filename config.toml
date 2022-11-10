@@ -479,7 +479,7 @@ images = []
 # 出版者信息
 [params.page.seo.publisher]
 name = ""
-logoUrl = ""
+logoUrl = "/avatar.jpeg"
 
 #  TypeIt 配置
 [params.typeit]

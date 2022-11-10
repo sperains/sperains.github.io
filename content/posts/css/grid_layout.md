@@ -3,17 +3,19 @@ title: "Grid网格布局"
 date: 2019-10-18T20:03:00+08:00
 tags: ["css"]
 categories: ["css"]
+images: []
+# featuredImage: "/posts/css/company_front.png"
 featuredImagePreview: "https://www.wangbase.com/blogimg/asset/201903/1_bg2019032501.png"
 ---
 
-
+网格布局将网页划分为一个个网格,可以任意组合不同的网格,做出各种各样的布局.
+<!--more-->
 
 # 一、概述
 
 网格布局将网页划分为一个个网格,可以任意组合不同的网格,做出各种各样的布局.
 
 ![](https://www.wangbase.com/blogimg/asset/201903/1_bg2019032501.png)
-
 
 # 二、基本概念
 

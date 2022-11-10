@@ -94,7 +94,7 @@ mobileMode = "auto"
 #  页面头部导航栏标题配置
 [params.header.title]
 # LOGO 的 URL
-logo = ""
+logo = "/avatar.jpeg"
 # 标题名称
 name = "主页"
 # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标
@@ -187,7 +187,7 @@ enable = true
 # Gravatar 邮箱，用于优先在主页显示的头像
 gravatarEmail = ""
 # 主页显示头像的 URL
-avatarURL = "avatar.jpeg"
+avatarURL = "/avatar.jpeg"
 #  主页显示的网站标题 (支持 HTML 格式)
 title = ""
 # 主页显示的网站副标题 (允许 HTML 格式)
@@ -282,8 +282,8 @@ Plume = ""
 HackTheBox = ""
 RootMe = ""
 Phone = ""
-Email = "xxxx@xxxx.com"
-RSS = true              # 
+Email = "1012205285@qq.com"
+RSS = true                  # 
 
 #  文章页面全局配置
 [params.page]
@@ -310,7 +310,7 @@ rssFullText = false
 # 是否使用目录
 enable = true
 #  是否保持使用文章前面的静态目录
-keepStatic = true
+keepStatic = false
 # 是否使侧边目录自动折叠展开
 auto = true
 #  代码配置
@@ -350,7 +350,7 @@ scale = true
 fullscreen = true
 #  文章页面的分享信息设置
 [params.page.share]
-enable = true
+enable = false
 Twitter = false
 Facebook = false
 Linkedin = false

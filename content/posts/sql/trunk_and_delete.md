@@ -2,7 +2,7 @@
 weight: 2
 title: "truncate和delete from"
 date: 2022-11-10T15:55:54+08:00
-draft: true
+draft: false
 categroies: ["sql"]
 ---
 
